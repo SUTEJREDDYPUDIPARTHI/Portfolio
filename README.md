@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
----
-
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/SUTEJREDDYPUDIPARTHI/Portfolio)
 
 ---
 
@@ -15,11 +8,7 @@
 
 ---
 
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://portfolio-ten-teal-33.vercel.app/)
 
 ---
 
@@ -146,32 +135,7 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
-```
-
-`devUsername` is used for fetching blog posts from `dev.to`.
-
+### Then, Customize data in the `utils/data`
 ---
 
 # Deployment :rocket:
@@ -192,17 +156,7 @@ Deploying the app to platforms like Vercel or Netlify is quick and easy.
 
 Whenever you push changes to your GitHub repo, Vercel will automatically redeploy the app, keeping your portfolio up-to-date.
 
-## Deploying to Netlify:
-
-1. **Sign up or log in** to [Netlify](https://www.netlify.com/).
-2. In the **Netlify Dashboard**, click **"New site from Git"**.
-3. Connect your **GitHub** account and select your repo.
-4. Configure your environment variables by going to **Site Settings > Build & Deploy > Environment** and adding keys from your `.env` file.
-5. Click **Deploy Site**. Netlify will build and deploy your portfolio.
-
 ---
-
-# Tutorials :wrench:
 
 ## Gmail App Password Setup
 
@@ -226,16 +180,6 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
    - Visit the following URL in your browser, replacing `BOT_TOKEN` with your actual bot token:  
      `https://api.telegram.org/bot<BOT_TOKEN>/getUpdates`
    - Look for the `chat` object in the response, which contains your **chat ID** (you can use this value for `TELEGRAM_CHAT_ID`).
-
-## Fetching Blog from dev.to
-
-To display your blog posts from dev.to on the portfolio:
-
-1. Set your `devUsername` in the `utils/data.js` file to your dev.to username.
-2. The application will automatically fetch your latest blog posts and display them in the **BLOG** section.
-3. Ensure your blogs are publicly visible on dev.to, and the application will fetch them using the dev.to API.
-
----
 
 # Packages Used :package:
 
