@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center" width="100%">
     <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
@@ -273,3 +274,6 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+=======
+# Portfolio
+>>>>>>> c46fd9b0ba7c9782eab8a60b8ab26ac6717f581e
