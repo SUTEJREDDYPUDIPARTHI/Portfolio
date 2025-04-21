@@ -22,7 +22,6 @@
 - [Tutorials]
   - [Gmail App Password Setup](#gmail-app-password-setup)
   - [Create a Telegram Bot](#create-a-telegram-bot)
-  - [Fetching Blog from dev.to](#fetching-blog-from-devto)
 - [Packages Used](#packages-used-package)
 
 ---
