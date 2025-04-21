@@ -15,12 +15,11 @@
 ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
 - [Usage](#usage-joystick)
 - [Deployment](#deployment-rocket)
-- [Tutorials](#tutorials-wrench)
+- [Tutorials]
   - [Gmail App Password Setup](#gmail-app-password-setup)
   - [Create a Telegram Bot](#create-a-telegram-bot)
   - [Fetching Blog from dev.to](#fetching-blog-from-devto)
@@ -157,6 +156,8 @@ Deploying the app to platforms like Vercel or Netlify is quick and easy.
 Whenever you push changes to your GitHub repo, Vercel will automatically redeploy the app, keeping your portfolio up-to-date.
 
 ---
+
+## TUTORIALS
 
 ## Gmail App Password Setup
 
